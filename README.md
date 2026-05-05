@@ -1,9 +1,9 @@
 # 🛡️ AI Trust Layer
 
 ## 🚀 Overview
-AI Trust Layer is a prototype system that evaluates AI-generated responses for trust, safety, and reliability before they are delivered to users.
+AI Trust Layer is a prototype system that evaluates AI-generated responses for **trust, safety, and reliability** before they are delivered to users.
 
-It acts as a middleware layer for AI systems, helping enterprises safely deploy LLM-powered products.
+It acts as a **middleware layer for AI systems**, helping enterprises safely deploy LLM-powered products.
 
 ---
 
@@ -22,7 +22,7 @@ Today, most AI systems **directly return outputs without validation**, creating 
 
 ## 💡 Solution
 
-AI Trust Layer introduces a post-processing validation layer that:
+AI Trust Layer introduces a **post-processing validation layer** that:
 
 1. Analyzes AI outputs
 2. Assigns risk scores
@@ -34,7 +34,7 @@ AI Trust Layer introduces a post-processing validation layer that:
 ## 🧠 Key Features
 
 ### 🔍 Trust Scoring Engine
-Generates a Trust Score (0–100) based on multiple risk factors.
+Generates a **Trust Score (0–100)** based on multiple risk factors.
 
 ### 🧾 Hallucination Detection
 Identifies responses that may be fabricated or unsupported.
@@ -139,7 +139,17 @@ This project demonstrates:
 - 🏢 Custom enterprise policy engines
 - 📊 Dashboard for trust analytics
 
+---
 
+## 🏆 What Makes This a Strong PM Project
+
+This project showcases:
+
+- Problem-first thinking  
+- User risk identification  
+- System design mindset  
+- AI + product integration  
+- Measurable impact metrics  
 
 ---
 
