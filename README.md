@@ -141,17 +141,43 @@ This project demonstrates:
 
 ---
 
-## 🏆 What Makes This a Strong PM Project
+## ⚙️ How to Run This Project Locally
 
-This project showcases:
-
-- Problem-first thinking  
-- User risk identification  
-- System design mindset  
-- AI + product integration  
-- Measurable impact metrics  
+Follow these steps to run the project on your machine.
 
 ---
+
+### 1. Clone the Repository
+
+bash
+git clone https://github.com/YOUR_USERNAME/ai-trust-layer.git
+cd ai-trust-layer
+
+2. Install Dependencies
+
+Make sure you have Node.js installed (v18+ recommended).
+npm install
+
+3. Set Up Environment Variables
+
+Create a .env.local file in the root directory:
+
+touch .env.local
+
+Open it and add:
+
+OPENAI_API_KEY=your_openai_api_key_here
+
+⚠️ Do not commit this file to GitHub.
+
+4. Run the Development Server
+npm run dev
+
+5. Open in Browser
+
+Go to:
+
+http://localhost:3000
 
 ## 📬 Contact
 
